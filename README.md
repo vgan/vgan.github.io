@@ -3,7 +3,7 @@ Recent Creative Coding Projects
 
 ## [AI Art Bot](https://github.com/vgan/aiartbot)
 VQGAN+CLIP (z+quantize method) automated to generate images from text in a google sheet.
-[@ai_ar_tbot](https://twitter.com/ai_art_bot)
+[@ai_art_bot](https://twitter.com/ai_art_bot)
 
 ## [Char RNN Folk Motifs](https://github.com/vgan/thompson)
 Char RNN Tensorflow 2 neural network trained on the Stith Thompson Folk Motif Index.

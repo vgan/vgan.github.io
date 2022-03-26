@@ -1,5 +1,4 @@
-# code.stevecvar.com
-Recent Creative Coding Projects
+# Recent Creative Coding Projects
 
 ## [AI Art Bot](https://github.com/vgan/aiartbot)
 VQGAN+CLIP (z+quantize method) automated to generate images from text in a google sheet.

@@ -9,7 +9,7 @@ VQGAN+CLIP (z+quantize method) automated to generate images from text in a googl
 Char RNN Tensorflow 2 neural network trained on the Stith Thompson Folk Motif Index.
 
 ## [Generative Songs for SonicPi](https://github.com/vgan/SonicPi_Songs)
-Just a couple of generative songs I wrote to play with SonicPi.  One is Krautrock influenced and the other is and endless Take 5 drum solo.
+Just a couple of generative songs I wrote to play with SonicPi.  One is Krautrock influenced and the other is an endless Take 5 drum solo.
 
 
 
